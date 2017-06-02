@@ -1,0 +1,8 @@
+"menu": {
+    "firstLevel": {
+      "calculation": "Расчеты",
+      "documentation": "Документы",
+      "settings": "Настройки",
+      "references": "Справочники",
+      "reports": "Отчеты"
+    },
